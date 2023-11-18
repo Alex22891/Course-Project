@@ -1,0 +1,60 @@
+C:\Users\alexd\Desktop\Course project\Course project\bin\Debug\Course project.exe.config
+C:\Users\alexd\Desktop\Course project\Course project\bin\Debug\Course project.exe
+C:\Users\alexd\Desktop\Course project\Course project\bin\Debug\Course project.pdb
+C:\Users\alexd\Desktop\Course project\Course project\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\alexd\Desktop\Course project\Course project\bin\Debug\Google.Protobuf.dll
+C:\Users\alexd\Desktop\Course project\Course project\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\alexd\Desktop\Course project\Course project\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\alexd\Desktop\Course project\Course project\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\alexd\Desktop\Course project\Course project\bin\Debug\MaterialDesignColors.dll
+C:\Users\alexd\Desktop\Course project\Course project\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\alexd\Desktop\Course project\Course project\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\alexd\Desktop\Course project\Course project\bin\Debug\MySql.Data.dll
+C:\Users\alexd\Desktop\Course project\Course project\bin\Debug\System.Buffers.dll
+C:\Users\alexd\Desktop\Course project\Course project\bin\Debug\System.IO.Pipelines.dll
+C:\Users\alexd\Desktop\Course project\Course project\bin\Debug\System.Memory.dll
+C:\Users\alexd\Desktop\Course project\Course project\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\alexd\Desktop\Course project\Course project\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\alexd\Desktop\Course project\Course project\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\alexd\Desktop\Course project\Course project\bin\Debug\ZstdNet.dll
+C:\Users\alexd\Desktop\Course project\Course project\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\alexd\Desktop\Course project\Course project\bin\Debug\Google.Protobuf.pdb
+C:\Users\alexd\Desktop\Course project\Course project\bin\Debug\Google.Protobuf.xml
+C:\Users\alexd\Desktop\Course project\Course project\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\alexd\Desktop\Course project\Course project\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\alexd\Desktop\Course project\Course project\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\alexd\Desktop\Course project\Course project\bin\Debug\MaterialDesignColors.pdb
+C:\Users\alexd\Desktop\Course project\Course project\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\alexd\Desktop\Course project\Course project\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\alexd\Desktop\Course project\Course project\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\alexd\Desktop\Course project\Course project\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\alexd\Desktop\Course project\Course project\bin\Debug\MySql.Data.xml
+C:\Users\alexd\Desktop\Course project\Course project\bin\Debug\System.Buffers.xml
+C:\Users\alexd\Desktop\Course project\Course project\bin\Debug\System.IO.Pipelines.xml
+C:\Users\alexd\Desktop\Course project\Course project\bin\Debug\System.Memory.xml
+C:\Users\alexd\Desktop\Course project\Course project\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\alexd\Desktop\Course project\Course project\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\alexd\Desktop\Course project\Course project\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\alexd\Desktop\Course project\Course project\obj\Debug\AddTechniqueScreen.g.cs
+C:\Users\alexd\Desktop\Course project\Course project\obj\Debug\DecommissionedEquipmentScreen.g.cs
+C:\Users\alexd\Desktop\Course project\Course project\obj\Debug\LoginScreen.g.cs
+C:\Users\alexd\Desktop\Course project\Course project\obj\Debug\MainWindow.g.cs
+C:\Users\alexd\Desktop\Course project\Course project\obj\Debug\Profile.g.cs
+C:\Users\alexd\Desktop\Course project\Course project\obj\Debug\TechniqueScreen.g.cs
+C:\Users\alexd\Desktop\Course project\Course project\obj\Debug\App.g.cs
+C:\Users\alexd\Desktop\Course project\Course project\obj\Debug\Course project_MarkupCompile.cache
+C:\Users\alexd\Desktop\Course project\Course project\obj\Debug\Course project_MarkupCompile.lref
+C:\Users\alexd\Desktop\Course project\Course project\obj\Debug\App.baml
+C:\Users\alexd\Desktop\Course project\Course project\obj\Debug\AddTechniqueScreen.baml
+C:\Users\alexd\Desktop\Course project\Course project\obj\Debug\DecommissionedEquipmentScreen.baml
+C:\Users\alexd\Desktop\Course project\Course project\obj\Debug\LoginScreen.baml
+C:\Users\alexd\Desktop\Course project\Course project\obj\Debug\MainWindow.baml
+C:\Users\alexd\Desktop\Course project\Course project\obj\Debug\Profile.baml
+C:\Users\alexd\Desktop\Course project\Course project\obj\Debug\TechniqueScreen.baml
+C:\Users\alexd\Desktop\Course project\Course project\obj\Debug\Course project.g.resources
+C:\Users\alexd\Desktop\Course project\Course project\obj\Debug\Course_project.Properties.Resources.resources
+C:\Users\alexd\Desktop\Course project\Course project\obj\Debug\Course project.csproj.GenerateResource.cache
+C:\Users\alexd\Desktop\Course project\Course project\obj\Debug\Course project.csproj.CoreCompileInputs.cache
+C:\Users\alexd\Desktop\Course project\Course project\obj\Debug\Course project.csproj.CopyComplete
+C:\Users\alexd\Desktop\Course project\Course project\obj\Debug\Course project.exe
+C:\Users\alexd\Desktop\Course project\Course project\obj\Debug\Course project.pdb
